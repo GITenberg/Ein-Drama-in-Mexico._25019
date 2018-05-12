@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25019#Ein-Drama-in-Mexico.
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2008-04-08'
 gutenberg_type: Text
